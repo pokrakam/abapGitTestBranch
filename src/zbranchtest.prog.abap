@@ -1,2 +1,2 @@
 REPORT zbranchtest.
-write / 'I am branch master'.
+write / 'I am branch feature'.
